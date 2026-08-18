@@ -1,4 +1,4 @@
-# COIT12202 Network Security Concepts
+## COIT12202 Network Security Concepts
 
 ## Assessment 1 – Hardened Services Portfolio
 
