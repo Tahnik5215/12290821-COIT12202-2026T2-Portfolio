@@ -8,4 +8,10 @@ This folder contains my work and evidence for the Password Security section of A
 <img width="940" height="602" alt="image" src="https://github.com/user-attachments/assets/1268c91b-d138-405c-a723-d5f66c4c8fb4" />
 <img width="863" height="665" alt="image" src="https://github.com/user-attachments/assets/44effb80-5581-4331-806c-ea3dd958be38" />
 <img width="940" height="621" alt="image" src="https://github.com/user-attachments/assets/c1af9db1-d32d-4091-aef5-9b86ceb47573" />
+<img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/c91316bc-30a6-48cc-b885-f58ca36590ae" />
+<img width="940" height="639" alt="image" src="https://github.com/user-attachments/assets/9c11cd5d-94bc-4299-87d0-420cec1e2f3f" />
+<img width="940" height="638" alt="image" src="https://github.com/user-attachments/assets/e12283dc-4fec-4082-b5a2-6f5901ec6926" />
+<img width="940" height="595" alt="image" src="https://github.com/user-attachments/assets/c8079798-d478-4eb1-8328-83ba5a0f1720" />
+
+
 
