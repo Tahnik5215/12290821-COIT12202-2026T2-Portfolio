@@ -1,0 +1,10 @@
+# Week 1 – Phishing Triage
+
+## Activity Overview
+
+This interactive activity involved investigating suspicious email incidents using SOC investigation tools and selecting the correct attack classification and response.
+
+## Evidence of Completion
+
+
+**Figure 1:** The screenshot shows that I completed the Phishing Triage activity with 100% of the maximum stars. In the first round, I identified a malicious invoice attachment as a malware drop and selected the response to isolate the affected device and run a full antivirus scan. In the second round, I identified OAuth consent abuse and selected the response to revoke the rogue OAuth grant. I used two investigation tools in each round to analyse the evidence and choose the appropriate response.
